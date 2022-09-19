@@ -13,8 +13,8 @@ void _puts(char *str)
 {
 	*str = "I am a student of ALX SE program, cohort 9";
 
-	_puts(*str);
-	_puts("\n");
+	_putchar(*str);
+	_putchar("\n");
 
 	return (0);
 }
