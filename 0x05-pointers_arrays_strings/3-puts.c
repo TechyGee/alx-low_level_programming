@@ -4,17 +4,13 @@
 /**
  * _puts - function that prints a string, followed by a new line,
  * to stdout.
- * @str: string to be print.
- *
- * Return: Always 0.
+ * @str: string to be printed.
  */
 
 void _puts(char *str)
 {
-	*str = "I am a student of ALX SE program, cohort 9";
+	while(*str)
+		_putchar(*str++);
 
-	_putchar(*str);
 	_putchar("\n");
-
-	return (0);
 }
