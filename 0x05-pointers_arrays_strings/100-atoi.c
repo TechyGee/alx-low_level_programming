@@ -1,8 +1,5 @@
 #include "main.h"
-#include <stdio.h>
-#include <limits.h>
-#include <stdlib.h>
-#include <string.h>
+
 
 
 /**
@@ -15,6 +12,8 @@
 int _atoi(char *s)
 {
 	int sign = 1;
+
+	unsigned int num = 0;
 
 	do {
 		if (*s == -1)
