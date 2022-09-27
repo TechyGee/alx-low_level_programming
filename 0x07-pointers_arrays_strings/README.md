@@ -1,2 +1,8 @@
-0. write a function that fills memory with a constant byte.
+# 0x07 Pointers, Arrays and Strings.
+
+## Tasks
+
+## Resource link
+
+## My Thought.
 
