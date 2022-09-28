@@ -21,7 +21,7 @@ int factorial(int n)
 	
 }
 
-int main()
+int main(void)
 {
 	int n = result;
 	_putchar("%d", result);
