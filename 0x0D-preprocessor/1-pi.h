@@ -4,7 +4,7 @@
 /**
  * File: Pi.h
  * Auth: TechyGeeCoder
- * Desck: Header File that defines a macro named
+ * Desc: Header File that defines a macro named
  * PI as an abbreviation for the token 3.14159265359.
  *
  */
